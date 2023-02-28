@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">VKCase</string>
+    <string name="chatButton">Chat button</string>
+    <string name="buttonMinimize">Collapse Dialog</string>
+    <string name="contacts">Contacts</string>
+    <string name="user_name_2">You</string>
+    <string name="user_name_1">The name of the interlocutor, names can be very long</string>
+    <string name="chat_button">Chat button</string>
+    <string name="change_of_people_button">Button to change places of interlocutors</string>
+    <string name="camera_button">Camera ON/OFF</string>
+    <string name="microphone_button">Microphone ON/OFF</string>
+    <string name="alertdialog_text">Hello!</string>
+    <string name="alertdialog_button_text">OK</string>
+    <string name="alertdialog">Warning dialog box</string>
+    <string name="drop_call_button">Reset call</string>
+
+
+
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">VKCase</string>
+    <string name="chatButton">Кнопка чата</string>
+    <string name="buttonMinimize">Свернуть диалог</string>
+    <string name="contacts">Контакты</string>
+    <string name="user_name_2">Вы</string>
+    <string name="user_name_1">Имя собеседника, имена могут быть очень длинными</string>
+    <string name="chat_button">Кнопка сообщения</string>
+    <string name="change_of_people_button">Кнопка смены мест собеседников</string>
+    <string name="camera_button">Камера ВКЛ/ВЫКЛ</string>
+    <string name="microphone_button">Микрофон ВКЛ/ВЫКЛ</string>
+    <string name="alertdialog_text">Привет!</string>
+    <string name="alertdialog_button_text">OK</string>
+    <string name="alertdialog">Диалоговое окно предупреждения</string>
+    <string name="drop_call_button">Сбросить вызов</string>
+
+
+
+</resources>
